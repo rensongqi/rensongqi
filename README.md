@@ -3,7 +3,7 @@ rensongqi/rensongqi is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I’m @rensongqi
-- 👀 I’m interested in kubernetes and golang
+- 👀 I’m interested in devops
 - 📫 How to reach me rensongqi1024@gmail.com
 
 ## 🔭  Skill
@@ -18,4 +18,3 @@ You can click the Preview link to take a look at your changes.
 
 - rensongqi1024@gmail.com
 
-![image](https://github.com/rensongqi/rensongqi/blob/main/dinosaur.gif)
